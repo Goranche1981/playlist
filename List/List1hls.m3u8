@@ -15,6 +15,20 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub1hd&player=m3u8
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub2hd&player=m3u8
 #EXTINF:-1,Sport Klub 3 HD
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub3hd&player=m3u8
+#EXTINF:-1,Sport Klub 4
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub4&player=m3u8
+#EXTINF:-1,Sport Klub 5
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub5&player=m3u8
+#EXTINF:-1,Sport Klub 6
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub6&player=m3u8
+#EXTINF:-1,Sport Klub 7
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub7&player=m3u8
+#EXTINF:-1,Sport Klub 8
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub8&player=m3u8
+#EXTINF:-1,Sport Klub 9
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub9&player=m3u8
+#EXTINF:-1,Sport Klub 10
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=spklub10&player=m3u8
 #EXTINF:-1,EUROSPORT 1 HD
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=testsp1hd&player=m3u8
 #EXTINF:-1,EUROSPORT 2 HD
@@ -39,6 +53,8 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt3&player=m3u8
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt4&player=m3u8
 #EXTINF:-1,HRT 5
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5&player=m3u8
+#EXTINF:-1,OBN
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=obn&player=m3u8
 #EXTINF:-1,BN MUSIC
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=bnmusic&player=m3u8
 #EXTINF:-1,MINIMAX
@@ -47,6 +63,24 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=mmax&player=m3u8
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=ult&player=m3u8
 #EXTINF:-1,MINI ULTRA
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=miniult&player=m3u8
+#EXTINF:-1,BOOMERANG
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=bmrang&player=m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=cnetwork&player=m3u8
+#EXTINF:-1,FOX
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=foxsr&player=m3u8
+#EXTINF:-1,FOX CRIME
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=foxcrsr&player=m3u8
+#EXTINF:-1,FOX LIFE
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=foxlfsr&player=m3u8
+#EXTINF:-1,FOX MOVIES
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=foxmvsr&player=m3u8
+#EXTINF:-1,NGC
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=ngc&player=m3u8
+#EXTINF:-1,DISCOVERY
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery&player=m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet&player=m3u8
 #EXTINF:-1,RTL GERMANY
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rtlgermany&player=m3u8
 #EXTINF:-1,RTL 2 GERMANY
