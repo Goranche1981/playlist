@@ -93,5 +93,3 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rtlnitro
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=ntvgermany
 #EXTINF:-1,VOX GERMANY
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=voxgermany
-#EXTINF:-1,TIME SQUARE CAM
-https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1815630918.m3u8
