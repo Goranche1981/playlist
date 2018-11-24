@@ -41,3 +41,5 @@ https://www.youtube.com/watch?v=jWP3ntl64I4
 https://www.youtube.com/watch?v=zQYZXMEg5cc
 #EXTINF:-1,News Max TV USA
 https://www.youtube.com/watch?v=9LBs6Sak6Ak
+#EXTINF:-1,Belvil
+rtsp://admin:stevica1234@192.168.1.201:20554/Streaming/Channels/102/
